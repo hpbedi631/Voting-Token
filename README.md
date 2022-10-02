@@ -1,6 +1,6 @@
-# Sample Hardhat Project
+[# Voting Token Project
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This project shows a introductory Hardhat example for out Voting Token. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
 
 Try running some of the following tasks:
 
@@ -10,4 +10,4 @@ npx hardhat test
 REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.js
-```
+```](https://github.com/hpbedi631/Voting-Token.git)
